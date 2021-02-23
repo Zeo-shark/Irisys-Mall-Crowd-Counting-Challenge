@@ -14,6 +14,11 @@ Since the count of people is a function of time, solution should be such that it
 IE.g.In a shopping mall with 5 adjacent shops, can the solution give count of people in each shop and aggregate it at the mall level in a live scenario where there is a continuous camera feed in each shop and the corridor.
 State assumptions used.
 
-Team Name- CCC5_SOA
+***Team Name- CCC5_SOA***
 
-Project Details:
+## Project Details:
+
+## Project Implementation:
+1. People Counting System for Shopping Malls: [https://github.com/Zeo-shark/People-Counting-System-for-Shopping-Malls](https://github.com/Zeo-shark/People-Counting-System-for-Shopping-Malls).  
+
+3. People Couter in Crowded Mall: [https://github.com/Zeo-shark/People-Counter-in-Crowded-Mall](https://github.com/Zeo-shark/People-Counter-in-Crowded-Mall).  
