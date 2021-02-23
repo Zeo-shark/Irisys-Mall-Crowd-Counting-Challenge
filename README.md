@@ -22,7 +22,13 @@ State assumptions used.
 <hr>
 
 ## Problem Solving Approach:
-For the above problem statement we had deviced three ways to 
+For the above problem statement we had deviced three ways to perform Crowd Counting in the Malls.
+1. Use of Malls LAN(WIFI access) to identify the number of users present in the mall.
+![](https://d2gfc6j4v8hvtl.cloudfront.net/wp-content/uploads/2019/05/bluetooth_street_wifi_bt_shops_big.png)
+
+![]()
+2. Use of Thermal Cameras to enable privacy aware crowd counting.
+3. Use of CCTV/IP Cameras video feed and maintaining privacy aware Crowd Counting.
 
 
 ## Technological Specification:  
