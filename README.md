@@ -26,15 +26,26 @@ State assumptions used.
 ## Project Implementation:
 
 **1. People Counting System for Shopping Malls:** [https://github.com/Zeo-shark/People-Counting-System-for-Shopping-Malls](https://github.com/Zeo-shark/People-Counting-System-for-Shopping-Malls).   
- ***Output:*** [https://imgur.com/tZYiOkt.gif](https://imgur.com/tZYiOkt.gif) & Log file: [https://imgur.com/CV2nCjx.png](https://imgur.com/CV2nCjx.png)
+ 
+ - ***Data-Flow Diagram :***
    
 ![./src/People_Counting1.png](./src/People_Counting1.png)  
+
+- ***Output:*** 
+
+output_video_crowd.mp4 file  
+
+ ![https://imgur.com/tZYiOkt.gif](https://imgur.com/tZYiOkt.gif) 
+ 
+  Log files for output_video_crowd.mp4 : 
+
+ ![https://imgur.com/CV2nCjx.png](https://imgur.com/CV2nCjx.png)
 
 **2. People Couter in Crowded Mall:** [https://github.com/Zeo-shark/People-Counter-in-Crowded-Mall](https://github.com/Zeo-shark/People-Counter-in-Crowded-Mall).  
 
 
 ![./src/Crowd_Counter_system.png](./src/Crowd_Counter_system.png)   
 
- ***Output for People Couter in Crowded Mall:***  
- 
+ - ***Output for People Couter in Crowded Mall:***  
+
  ![https://www.xpandretail.com/wp-content/uploads/2018/01/customers-counting-system.jpg](https://www.xpandretail.com/wp-content/uploads/2018/01/customers-counting-system.jpg) output_1.png
