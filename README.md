@@ -21,7 +21,23 @@ State assumptions used.
 ***Team Name- CCC5_SOA***
 <hr>
 
-## Project Details:
+## Problem Solving Approach:
+For the above problem statement we had deviced three ways to 
+
+
+## Technological Specification:  
+
+**1. People Counting System for Shopping Malls:**  
+**Language:** Python.   
+**Frameworks Used**: Opencv, pytorch, imutils, dlib, argparse.   
+**Pretrained Model for Object Detection algorithm:** YOLO MobileNet SSD.   
+**Object Tracking Algorithm**: Centroid Tracker(MOSSE Algorithm).
+
+**2. People Counter in Crowded Malls:**  
+**Language:** Python.   
+**Frameworks Used**: torch-vision, pytorch, cv2, matplotlib, argparse.     
+**DataSet Used:** VGG 16 v3   
+**Pretrained Model used for transfer learning:** VGG 16 v3 SSD
 
 ## Project Implementation:
 
@@ -56,5 +72,20 @@ output_video_crowd.mp4 file
  ## Use-Cases  
  
  Primarily we are focusing on the use of this Crowd Counting System in Shopping Malls. as shown below :
+ 1. At every entrance or exit a camera will be placed to count the number of people entering or leaving the premises.
+ ![People_Counting](https://www.mobotix.com/sites/default/files/styles/facebook/public/2020-06/backontrack_1_930x550.jpg?h=c4a9cdb7&itok=p09sYf8W).
+
+ 2. The Concourse, the hallway, the pathsways through the mall will be divided into different zones and each zone will have an IP Camera to perform head-count on the real-time video stream.
+ ![Crowd_Counting](https://global.canon/en/technology/img/frontier/count2019_img1.jpg) 
+
+**These above can be represented as :**
 
  ![./src/Crwd_Counting_Mall.PNG](./src/Crwd_Counting_Mall.PNG)
+
+
+ ## References:
+
+ 1. [https://www.pyimagesearch.com/2018/08/13/opencv-people-counter/](https://www.pyimagesearch.com/2018/08/13/opencv-people-counter/) by Adrian Rosebrock
+
+
+ 2. https://www.researchgate.net/publication/236292403_Real-time_Crowd_Monitoring_using_Infrared_Thermal_Video_Sequences
