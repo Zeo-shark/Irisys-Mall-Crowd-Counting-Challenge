@@ -31,7 +31,7 @@ State assumptions used.
    
 ![./src/People_Counting1.PNG](./src/People_Counting1.PNG)  
 
-- ***Output:*** 
+- ***Output fpr People Counter System:*** 
 
 output_video_crowd.mp4 file  
 
@@ -43,9 +43,18 @@ output_video_crowd.mp4 file
 
 **2. People Couter in Crowded Mall:** [https://github.com/Zeo-shark/People-Counter-in-Crowded-Mall](https://github.com/Zeo-shark/People-Counter-in-Crowded-Mall).  
 
+- ***Data-Flow Diagram :***
 
 ![./src/Crowd_Counter_system.PNG](./src/Crowd_Counter_system.PNG)   
 
  - ***Output for People Couter in Crowded Mall:***  
 
  ![https://www.xpandretail.com/wp-content/uploads/2018/01/customers-counting-system.jpg](https://www.xpandretail.com/wp-content/uploads/2018/01/customers-counting-system.jpg) output_1.png
+
+<hr>  
+ 
+ ## Use-Cases  
+ 
+ Primarily we are focusing on the use of this Crowd Counting System in Shopping Malls. as shown below :
+
+ ![./src/Crwd_Counting_Mall.PNG](./src/Crwd_Counting_Mall.PNG)
