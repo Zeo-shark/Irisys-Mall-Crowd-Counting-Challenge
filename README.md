@@ -29,7 +29,7 @@ State assumptions used.
  
  - ***Data-Flow Diagram :***
    
-![./src/People_Counting1.png](./src/People_Counting1.png)  
+![./src/People_Counting1.PNG](./src/People_Counting1.PNG)  
 
 - ***Output:*** 
 
@@ -44,7 +44,7 @@ output_video_crowd.mp4 file
 **2. People Couter in Crowded Mall:** [https://github.com/Zeo-shark/People-Counter-in-Crowded-Mall](https://github.com/Zeo-shark/People-Counter-in-Crowded-Mall).  
 
 
-![./src/Crowd_Counter_system.png](./src/Crowd_Counter_system.png)   
+![./src/Crowd_Counter_system.PNG](./src/Crowd_Counter_system.PNG)   
 
  - ***Output for People Couter in Crowded Mall:***  
 
