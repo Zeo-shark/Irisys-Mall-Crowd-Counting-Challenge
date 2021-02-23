@@ -27,7 +27,7 @@ For the above problem statement we had deviced three ways to perform Crowd Count
 ![](https://d2gfc6j4v8hvtl.cloudfront.net/wp-content/uploads/2019/05/bluetooth_street_wifi_bt_shops_big.png)
 
 ![]()
-2. Use of Thermal Cameras to enable privacy aware crowd counting.
+2. Use of Thermal Cameras to enable privacy aware crowd counting.  
 3. Use of CCTV/IP Cameras video feed and maintaining privacy aware Crowd Counting.
 
 
