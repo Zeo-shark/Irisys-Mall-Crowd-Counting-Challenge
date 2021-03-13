@@ -1,4 +1,4 @@
-# Mall-Crowd-Counting-Challenge
+# Irisys
 ![Mall Crowd Counting Challenge](https://v-count.com/wp-content/uploads/2020/01/blog-jan4.png)   
 <hr>  
 
